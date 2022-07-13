@@ -3,7 +3,7 @@
 
 - [프론트엔드 레포지토리](https://github.com/pigerabbit/front)
 - [백엔드 레포지토리](https://github.com/pigerabbit/back)
-- [기술 문서 모음](https://kdt-gitlab.elice.io/ai_track/class_04/hackathon/team1/dongurami/-/wikis/home)
+- [기술 문서 모음](https://github.com/pigerabbit/dongurami/wiki)
 
 ## 1. 프로젝트 개요
 
