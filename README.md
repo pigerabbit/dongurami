@@ -1,8 +1,8 @@
 # <img src="https://user-images.githubusercontent.com/97489259/176145324-559a60a5-d457-4739-baad-24daf1e8f099.png" width="5%" height="5%" /> &nbsp; 동구라미
 지역경제 활성화를 도모하고 소상공인을 위한 온라인 판로를 지원하는 공동구매 중개 플랫폼
 
-- [프론트엔드 레포지토리](https://kdt-gitlab.elice.io/ai_track/class_04/hackathon/team1/refront)
-- [백엔드 레포지토리](https://kdt-gitlab.elice.io/ai_track/class_04/hackathon/team1/reback)
+- [프론트엔드 레포지토리](https://github.com/pigerabbit/front)
+- [백엔드 레포지토리](https://github.com/pigerabbit/back)
 - [기술 문서 모음](https://kdt-gitlab.elice.io/ai_track/class_04/hackathon/team1/dongurami/-/wikis/home)
 
 ## 1. 프로젝트 개요
